@@ -4,7 +4,7 @@
 
 To join The Deriv Affiliate Partner program, please follow these steps:
 
-1. **Create an Account**: [Visit the website here](https://iederees-create.github.io/deriv/)
+1. **Create an Account**: [Visit the website here](https://ferozaadams.github.io/tradershub/)
 
 2. **Verify Your Account**: After creating your account, you'll need to verify your email address and complete any required verification steps.
 
